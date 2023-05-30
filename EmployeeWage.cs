@@ -85,5 +85,19 @@ namespace EmployeeWageusingOOPs
             Console.WriteLine("EmployeeWage: " + employeeWage);
             return employeeWage;
         }
+        public int MonthlyWage()
+        {
+            int monthlyWage = 0;
+            for (int day = 1; day <= WORKING_DAYS_PER_MONTH; day++)
+            {
+                int dailyWage = DailyWage();
+                monthlyWage += dailyWage;
+            }
+
+            Console.WriteLine($"Monthly Wage is : {monthlyWage}");
+            return monthlyWage;
+        }
     }
 }
+           
+    

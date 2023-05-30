@@ -9,7 +9,9 @@
             //EmployeeWage.CheckAttendance();
             //employeeWage.DailyWage();
             //employeeWage.PartTime();
-            employeeWage.EmployeeSwitchCase();
+            //employeeWage.EmployeeSwitchCase();
+            employeeWage.MonthlyWage();
+
         }
     }
 }
