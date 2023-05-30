@@ -10,7 +10,8 @@
             //employeeWage.DailyWage();
             //employeeWage.PartTime();
             //employeeWage.EmployeeSwitchCase();
-            employeeWage.MonthlyWage();
+            //employeeWage.MonthlyWage();
+            employeeWage.EmployeeWageUsingCondition();
 
         }
     }

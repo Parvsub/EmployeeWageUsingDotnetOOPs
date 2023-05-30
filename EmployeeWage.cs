@@ -97,6 +97,41 @@ namespace EmployeeWageusingOOPs
             Console.WriteLine($"Monthly Wage is : {monthlyWage}");
             return monthlyWage;
         }
+
+        public void EmployeeWageUsingCondition()
+        {
+
+            int TotalEmployeeHours = 0;
+            int TotalWorkingDays = 0;
+            int maximumHoursInMonth = 100;
+            int employeeHours;
+            int NumberOfWorkingDays = 20;
+            while (TotalEmployeeHours <= maximumHoursInMonth && TotalWorkingDays < NumberOfWorkingDays)
+            {
+                TotalWorkingDays++;
+                Random objectOfRandom = new Random();
+                int employeecheck = objectOfRandom.Next(0, 3);
+                switch (employeecheck)
+                {
+                    case 1:
+                        employeeHours = FULL_WORKING_HOURS;
+                        Console.WriteLine("Employee is FullTime worker");
+                        break;
+                    case 2:
+                        employeeHours = PART_WORKING_HOURS;
+                        Console.WriteLine("Employee is PartTime worker");
+                        break;
+                    default:
+                        employeeHours = 0;
+                        Console.WriteLine("Employee is absent");
+                        break;
+                }
+                TotalEmployeeHours += employeeHours;
+                Console.WriteLine("Day : " + TotalWorkingDays + " employee Hours:" + employeeHours);
+            }
+            int TotalEmployeeWage = TotalEmployeeHours * WAGE_PER_HOUR;
+            Console.WriteLine("Total Employee Wage: " + TotalEmployeeWage);
+        }
     }
 }
            
