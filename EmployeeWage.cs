@@ -56,6 +56,11 @@ namespace EmployeeWageusingOOPs
             Console.WriteLine($"Wage : {dailyWage}");
             return dailyWage;
         }
+    
+        public void PartTime()
+        {
+            int employeeCheck = DailyWage();
+        }
 
     }
 }
