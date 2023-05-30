@@ -1,0 +1,15 @@
+C:\Users\bodap\source\repos\EmployeeWageusingOOPs\EmployeeWageusingOOPs\bin\Debug\net6.0\EmployeeWageusingOOPs.exe
+C:\Users\bodap\source\repos\EmployeeWageusingOOPs\EmployeeWageusingOOPs\bin\Debug\net6.0\EmployeeWageusingOOPs.deps.json
+C:\Users\bodap\source\repos\EmployeeWageusingOOPs\EmployeeWageusingOOPs\bin\Debug\net6.0\EmployeeWageusingOOPs.runtimeconfig.json
+C:\Users\bodap\source\repos\EmployeeWageusingOOPs\EmployeeWageusingOOPs\bin\Debug\net6.0\EmployeeWageusingOOPs.dll
+C:\Users\bodap\source\repos\EmployeeWageusingOOPs\EmployeeWageusingOOPs\bin\Debug\net6.0\EmployeeWageusingOOPs.pdb
+C:\Users\bodap\source\repos\EmployeeWageusingOOPs\EmployeeWageusingOOPs\obj\Debug\net6.0\EmployeeWageusingOOPs.csproj.AssemblyReference.cache
+C:\Users\bodap\source\repos\EmployeeWageusingOOPs\EmployeeWageusingOOPs\obj\Debug\net6.0\EmployeeWageusingOOPs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bodap\source\repos\EmployeeWageusingOOPs\EmployeeWageusingOOPs\obj\Debug\net6.0\EmployeeWageusingOOPs.AssemblyInfoInputs.cache
+C:\Users\bodap\source\repos\EmployeeWageusingOOPs\EmployeeWageusingOOPs\obj\Debug\net6.0\EmployeeWageusingOOPs.AssemblyInfo.cs
+C:\Users\bodap\source\repos\EmployeeWageusingOOPs\EmployeeWageusingOOPs\obj\Debug\net6.0\EmployeeWageusingOOPs.csproj.CoreCompileInputs.cache
+C:\Users\bodap\source\repos\EmployeeWageusingOOPs\EmployeeWageusingOOPs\obj\Debug\net6.0\EmployeeWageusingOOPs.dll
+C:\Users\bodap\source\repos\EmployeeWageusingOOPs\EmployeeWageusingOOPs\obj\Debug\net6.0\refint\EmployeeWageusingOOPs.dll
+C:\Users\bodap\source\repos\EmployeeWageusingOOPs\EmployeeWageusingOOPs\obj\Debug\net6.0\EmployeeWageusingOOPs.pdb
+C:\Users\bodap\source\repos\EmployeeWageusingOOPs\EmployeeWageusingOOPs\obj\Debug\net6.0\EmployeeWageusingOOPs.genruntimeconfig.cache
+C:\Users\bodap\source\repos\EmployeeWageusingOOPs\EmployeeWageusingOOPs\obj\Debug\net6.0\ref\EmployeeWageusingOOPs.dll
