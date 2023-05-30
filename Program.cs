@@ -8,7 +8,8 @@
             //EmployeeWage.WelcomeMessage();
             //EmployeeWage.CheckAttendance();
             //employeeWage.DailyWage();
-            employeeWage.PartTime();
+            //employeeWage.PartTime();
+            employeeWage.EmployeeSwitchCase();
         }
     }
 }
