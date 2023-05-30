@@ -4,7 +4,9 @@
     {
         static void Main(string[] args)
         {
+            EmployeeWage employeeWage = new EmployeeWage();
             EmployeeWage.WelcomeMessage();
+            EmployeeWage.CheckAttendance();
         }
     }
 }
